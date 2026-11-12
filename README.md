@@ -14,6 +14,8 @@ I build ML experiments and applications, with an emphasis on reproducible evalua
 
 **My work:** Independently built the data pipeline, nested-CV benchmark, and result analysis.
 
+[![Clinical benchmark: AUROC and Brier scores for seven models on five small datasets](https://raw.githubusercontent.com/Jeremy891102/Clinical-Risk-Prediction-on-Small-Medical-Datasets/main/figures/readme/benchmark.png)](https://github.com/Jeremy891102/Clinical-Risk-Prediction-on-Small-Medical-Datasets#results)
+
 ### [Fridge-to-Fork](https://github.com/Jeremy891102/fridge-to-fork)
 
 Photo → ingredient inventory → recipe chat and shopping list. Built with Streamlit and local models through Ollama; originated at a hackathon.
